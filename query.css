@@ -49,7 +49,7 @@
   .add-btn {
     padding: 5px;
     border-radius: 15px;
-    background-color: rgb(9 1 14);
+    background-color: #0232506e;
   }
 
   .task-list {
@@ -89,5 +89,10 @@
     padding: 20px;
     margin-top: 20px;
     border-radius: 20px;
+  }
+  .copy {
+    background-color: #0e0505;
+    padding: 8px;
+    border-radius: 15px;
   }
 }
